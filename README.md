@@ -44,9 +44,3 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
-[facebook]: http://facebook.com/unknownkid18
-[twitter]: https://twitter.com/Oussama1337
-[youtube]: https://www.youtube.com/channel/UCcOb-zA_hNerb4UZ8RtO_Yg
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
