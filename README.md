@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, and Penetration tester.
 
 - 🔭 I’m currently working on Django Channels & WebSockets 
 - 🌱 I’m currently learning Django & React
