@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I miss php days 
 
 
-### Connect with me:
+### Contact:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCcOb-zA_hNerb4UZ8RtO_Yg#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCcOb-zA_hNerb4UZ8RtO_Yg#gh-dark-mode-only)
