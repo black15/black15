@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="DJANGO" width="26px" src="./img/django.svg" style="padding-right:10px;" />
-<img align="left" alt="DJANGO" width="26px" src="./img/reactping.svg" style="padding-right:10px;" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"  style="padding-right:10px;" />
 <img align="left" alt="DJANGO" width="33px" src="./img/PHP.svg" style="padding-right:10px; padding-top: 15px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
