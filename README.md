@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=black15&label=Profile%20views&color=0e75b6&style=flat" alt="black15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=black15" alt="black15" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/oussama1337" target="blank"><img src="https://img.shields.io/twitter/follow/oussama1337?logo=twitter&style=for-the-badge" alt="oussama1337" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce project**
