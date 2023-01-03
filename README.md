@@ -16,12 +16,6 @@
 - ⚡ Fun fact **PHP isn't Dead.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/oussama1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oussama1337" height="30" width="40" /></a>
-<a href="https://fb.com/unknownkid.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unknownkid.18" height="30" width="40" /></a>
-<a href="https://instagram.com/o.u.s.s._.a.m.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o.u.s.s._.a.m.a" height="30" width="40" /></a>
-</p>
-
 <div align="center">
 <a href="https://github.com/black15" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
