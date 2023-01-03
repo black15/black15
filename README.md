@@ -33,4 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=black15&show_icons=true&locale=en&layout=compact" alt="black15" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=black15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --- [![](https://visitcount.itsvg.in/api?id=black15&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=black15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[](https://visitcount.itsvg.in/api?id=black15&icon=0&color=0)](https://visitcount.itsvg.in)
