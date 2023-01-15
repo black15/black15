@@ -48,6 +48,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=black15&show_icons=true&locale=en" alt="black15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=black15&" alt="black15" /></p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=black15&show_icons=true&locale=en&layout=compact" alt="black15" /></p>
