@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://webportfolio-black15.vercel.app/" target="_blank" stylze="text-decoration: underline;" >Oussama</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://webportfolio-black15.vercel.app/" target="_blank" style="text-decoration: underline;" >Oussama</a></h1>
 <h3 align="center">Full stack developer & Penetration tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=black15&label=Profile%20views&color=0e75b6&style=flat" alt="black15" /> </p>
