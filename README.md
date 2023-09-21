@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/oussama1337" target="blank"><img src="https://img.shields.io/twitter/follow/oussama1337?logo=twitter&style=for-the-badge" alt="oussama1337" /></a> </p>
 
-- 🔭 I’m currently working on **Blog**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **NextJS, Django, GraphQL after this LARAVEL**
+- 🌱 I’m currently learning **Nothing**
 
-- 👯 I’m looking to collaborate on **Real World Project**
+- 👯 I’m looking to collaborate on **Nothing**
 
-- 📫 How to reach me **hunterofbugs61@gmail.com**
+- 📫 How to reach me **Dont**
 
 - ⚡ Fun fact **PHP isn't Dead.**
 
